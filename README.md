@@ -1,0 +1,3 @@
+# hyprlock
+
+hyprlock config
